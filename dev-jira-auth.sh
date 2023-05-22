@@ -1,0 +1,8 @@
+export JIRA_USERNAME=${USER}@memsql.com
+export JIRA_PASSWORD=$(cat .jira_token)
+export JIRA_BOARD_ID=255
+
+export CONFLUENCE_USERNAME=${USER}@memsql.com
+export CONFLUENCE_PASSWORD=$(cat .jira_token)
+export CONFLUENCE_SPACE_KEY=CLOUDINFRA
+export CONFLUENCE_PARENT_PAGE_ID=2564030484

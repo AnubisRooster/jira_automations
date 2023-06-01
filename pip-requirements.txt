@@ -2,3 +2,4 @@ jira==3.5.0
 atlassian-python-api==3.36.0
 matplotlib==3.5.1
 python-docx==0.8.11
+configparser==5.0.2

@@ -1,0 +1,358 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "recursive_bug_jail_get_issues",
+      "label": "get_issues()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "recursive_bug_jail.py",
+      "file_type": "code",
+      "norm_label": "get_issues()",
+      "source_file": "recursive_bug_jail.py",
+      "source_location": "L55"
+    },
+    {
+      "id": "recursive_bug_jail_send_email",
+      "label": "send_email()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "recursive_bug_jail.py",
+      "file_type": "code",
+      "norm_label": "send_email()",
+      "source_file": "recursive_bug_jail.py",
+      "source_location": "L33"
+    },
+    {
+      "id": "scripts_graphify_pipeline_keep",
+      "label": "keep()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "graphify_pipeline.py",
+      "file_type": "code",
+      "norm_label": "keep()",
+      "source_file": "scripts/graphify_pipeline.py",
+      "source_location": "L41"
+    },
+    {
+      "id": "dev_jira_auth",
+      "label": "dev-jira-auth.sh",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "dev-jira-auth.sh",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "dev_jira_auth_confluence_parent_page_id",
+      "label": "CONFLUENCE_PARENT_PAGE_ID",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "confluence_parent_page_id",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L8"
+    },
+    {
+      "id": "dev_jira_auth_confluence_password",
+      "label": "CONFLUENCE_PASSWORD",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "confluence_password",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L6"
+    },
+    {
+      "id": "dev_jira_auth_confluence_space_key",
+      "label": "CONFLUENCE_SPACE_KEY",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "confluence_space_key",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L7"
+    },
+    {
+      "id": "dev_jira_auth_confluence_username",
+      "label": "CONFLUENCE_USERNAME",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "confluence_username",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L5"
+    },
+    {
+      "id": "dev_jira_auth_jira_board_id",
+      "label": "JIRA_BOARD_ID",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "jira_board_id",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L3"
+    },
+    {
+      "id": "dev_jira_auth_jira_password",
+      "label": "JIRA_PASSWORD",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "jira_password",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L2"
+    },
+    {
+      "id": "dev_jira_auth_jira_username",
+      "label": "JIRA_USERNAME",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "jira_username",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "dev_jira_auth_sh__entry",
+      "label": "dev-jira-auth.sh script",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "dev-jira-auth.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "dev-jira-auth.sh script",
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "recursive_bug_jail",
+      "label": "recursive_bug_jail.py",
+      "_origin": "ast",
+      "community": 1,
+      "community_name": "recursive_bug_jail.py",
+      "file_type": "code",
+      "norm_label": "recursive_bug_jail.py",
+      "source_file": "recursive_bug_jail.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "scripts_graphify_pipeline",
+      "label": "graphify_pipeline.py",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "graphify_pipeline.py",
+      "file_type": "code",
+      "norm_label": "graphify_pipeline.py",
+      "source_file": "scripts/graphify_pipeline.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "scripts_graphify_pipeline_rationale_1",
+      "label": "Self-contained graphify pipeline for CI. Builds a knowledge graph over this\u2026",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "graphify_pipeline.py",
+      "file_type": "rationale",
+      "norm_label": "self-contained graphify pipeline for ci. builds a knowledge graph over this...",
+      "source_file": "scripts/graphify_pipeline.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "sprint_report_confluence",
+      "label": "sprint-report-confluence.py",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "sprint-report-confluence.py",
+      "file_type": "code",
+      "norm_label": "sprint-report-confluence.py",
+      "source_file": "sprint-report-confluence.py",
+      "source_location": "L1"
+    }
+  ],
+  "links": [
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "recursive_bug_jail",
+      "target": "recursive_bug_jail_send_email",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "recursive_bug_jail.py",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "recursive_bug_jail",
+      "target": "recursive_bug_jail_get_issues",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "recursive_bug_jail.py",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_graphify_pipeline",
+      "target": "scripts_graphify_pipeline_keep",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/graphify_pipeline.py",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_jira_username",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_jira_password",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_jira_board_id",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_confluence_username",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_confluence_password",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_confluence_space_key",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "dev_jira_auth",
+      "target": "dev_jira_auth_confluence_parent_page_id",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "dev-jira-auth.sh",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_graphify_pipeline_rationale_1",
+      "target": "scripts_graphify_pipeline",
+      "relation": "rationale_for",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/graphify_pipeline.py",
+      "source_location": "L1",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "439b6592e8753c58eb0a7619541463ae15ab72eb"
+}

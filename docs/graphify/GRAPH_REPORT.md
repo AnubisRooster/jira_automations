@@ -1,7 +1,7 @@
-# Graph Report - jira_automations  (2026-09-06)
+# Graph Report - jira_automations  (2026-09-07)
 
 ## Corpus Check
-- Corpus is ~9,359 words - fits in a single context window. You may not need a graph.
+- Corpus is ~12,891 words - fits in a single context window. You may not need a graph.
 
 ## Summary
 - 16 nodes · 12 edges · 4 communities (1 shown, 1 thin omitted)

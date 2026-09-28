@@ -1,7 +1,7 @@
-# Graph Report - jira_automations  (2026-09-21)
+# Graph Report - jira_automations  (2026-09-28)
 
 ## Corpus Check
-- Corpus is ~12,891 words - fits in a single context window. You may not need a graph.
+- Corpus is ~14,464 words - fits in a single context window. You may not need a graph.
 
 ## Summary
 - 31 nodes · 29 edges · 4 communities (3 shown, 1 thin omitted)
@@ -47,7 +47,7 @@ Nodes (4): atlassian, jira, os, sys
 
 ## Knowledge Gaps
 - **8 isolated node(s):** `dev-jira-auth.sh script`, `JIRA_USERNAME`, `JIRA_PASSWORD`, `JIRA_BOARD_ID`, `CONFLUENCE_USERNAME` (+3 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 25 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges. (Counts symbols only; 25 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions

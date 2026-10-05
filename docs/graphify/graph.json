@@ -386,6 +386,18 @@
   ],
   "links": [
     {
+      "source": "recursive_bug_jail_get_issues",
+      "target": "requests",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "recursive_bug_jail.py",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
       "source": "recursive_bug_jail",
       "target": "requests",
       "relation": "imports",
@@ -723,5 +735,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "1848f7214ea095aa430785acbb559b12d57c8ef9"
+  "built_at_commit": "4a7f28fe7d2a602c655dddd73e31b2b08be5c93f"
 }

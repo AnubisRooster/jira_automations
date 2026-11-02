@@ -1,4 +1,4 @@
-# Graph Report - jira_automations  (2026-10-26)
+# Graph Report - jira_automations  (2026-11-02)
 
 ## Corpus Check
 - Corpus is ~13,853 words - fits in a single context window. You may not need a graph.
@@ -45,4 +45,4 @@ Nodes (8): CONFLUENCE_PARENT_PAGE_ID, CONFLUENCE_PASSWORD, CONFLUENCE_SPACE_KEY,
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `JIRA_USERNAME`, `JIRA_PASSWORD`, `JIRA_BOARD_ID` to the rest of the system?**
-  _7 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _7 weakly-connected nodes found - possible missing edges._
